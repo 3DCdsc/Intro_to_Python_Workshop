@@ -23,6 +23,8 @@ Session Details:
 3. Applications to Data Analysis / Q&A
 - Instructor: Sean (@seancze)
 
+To follow along with the session please click [here](https://gist.github.com/seancze/b595b048f843e57b6bd1c2039d4f8992) and click the 'Open in Colab' button
+
 **Session 02**: 
 
 - Time: 
