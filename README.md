@@ -23,10 +23,9 @@ Sessions:
         - If / Else
         - For Loops
         - Functions
-    3. Applications to Data Analysis / Q&A
+    3. Applications to Data Analysis / Q&A [Link to notebook](https://gist.github.com/seancze/f08b86d3101b87e1ffd90cf0826969b3)
 - Materials:
-    - To follow along with the session please click [here](https://gist.github.com/seancze/b595b048f843e57b6bd1c2039d4f8992) and click the 'Open in Colab' button
-
+    - To follow along with the session please click [here](https://gist.github.com/seancze/79df97fabd3a7ef4dee22c5eb5ccd85c) and click the 'Open in Colab' button
 
 **Session 02: More on Python Programming**: 
 
