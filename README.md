@@ -40,6 +40,6 @@ Additional tips + post session review, [here](https://gist.github.com/rphly/e3f9
 
 - Date: 26th November 2020 (Thursday of Week 11)
 - Time: 7.00 - 9.00 PM (2 hours)
-- Instructor: Qiu Weihong
-- Content: 
+- Instructor: Raphael Yee
+- Content: While/For Loops and Scope 
 
