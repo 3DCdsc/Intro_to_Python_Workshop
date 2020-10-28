@@ -26,6 +26,8 @@ Sessions:
     3. Teaser Application to Data Analysis / Q&A [Link to notebook](https://gist.github.com/seancze/f08b86d3101b87e1ffd90cf0826969b3)
 - Materials:
     - To follow along with the session please click [here](https://gist.github.com/seancze/f91ab7be4a1e436e2b174b65eec8ae9f) and click the 'Open in Colab' button
+    
+Additional tips + post session review, [here](https://gist.github.com/rphly/e3f976e0180e10e17c716b90e645c08f)
 
 **Session 02: More on Python Programming**: 
 
@@ -38,6 +40,6 @@ Sessions:
 
 - Date: 26th November 2020 (Thursday of Week 11)
 - Time: 7.00 - 9.00 PM (2 hours)
-- Instructor: Qiu Weihong
-- Content: 
+- Instructor: Raphael Yee
+- Content: While/For Loops and Scope 
 
