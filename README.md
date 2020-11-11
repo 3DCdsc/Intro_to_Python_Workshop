@@ -22,6 +22,7 @@
 - Date: 12th November 2020 (Thursday of Week 9)
 - Time: 7.00 - 9.00 PM (2 hours)
 - Instructor: Qiu Weihong
+- Material: You can view the lesson content [here](https://gist.github.com/weihong0827/a59839987bc2cb77f1d1e9e9e925018c) and click the 'Open in Colab' button
 
 
 **Session 03 Python Programming & Final Review for `Computational Thinking for Design`**: 
