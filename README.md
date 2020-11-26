@@ -30,4 +30,4 @@
 - Date: 26th November 2020 (Thursday of Week 11)
 - Time: 7.00 - 9.00 PM (2 hours)
 - Instructor: Raphael Yee
-
+- Material: You can view the lesson pdf [here](https://github.com/3DCdsc/Intro_to_Python_Workshop/blob/main/session_3/Python%20Workshop%20Slides-S03.pdf)
